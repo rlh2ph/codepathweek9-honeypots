@@ -1,5 +1,10 @@
 # codepathweek9-honeypots
 
+## Hours spent: 5
+
+## Summary
+- implemented honeypot using a VM hosted on Google Cloud
+
 ## Honeypots Deployed
 - mhn-honeypot-1-dionaea
 
@@ -13,3 +18,5 @@
 
 ## Unresolved Questions
 - None
+
+![Alt Text](https://github.com/rlh2ph/codepathweek9-honeypots/blob/master/Attack.gif)
